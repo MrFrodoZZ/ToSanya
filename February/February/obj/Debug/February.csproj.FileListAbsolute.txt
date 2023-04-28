@@ -1,0 +1,12 @@
+C:\Users\FrodoZZ\source\repos\February\February\bin\Debug\February.exe.config
+C:\Users\FrodoZZ\source\repos\February\February\bin\Debug\February.exe
+C:\Users\FrodoZZ\source\repos\February\February\bin\Debug\February.pdb
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.csproj.AssemblyReference.cache
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.csproj.SuggestedBindingRedirects.cache
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.Form1.resources
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.Properties.Resources.resources
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.csproj.GenerateResource.cache
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.csproj.CoreCompileInputs.cache
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.exe
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.pdb
+C:\Users\FrodoZZ\source\repos\February\February\obj\Debug\February.Form2.resources
